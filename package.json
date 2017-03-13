@@ -1,7 +1,6 @@
 {
   "name": "requests",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,15 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.81.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeetminhas/Requests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sumeetminhas/Requests/issues"
+  },
+  "homepage": "https://github.com/sumeetminhas/Requests#readme",
+  "description": ""
 }
